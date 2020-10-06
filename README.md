@@ -21,6 +21,11 @@ __Routing Manager__ - is a __React__ library for __advanced routing__. It helps 
 
 Documentation: [routing-manager](https://github.com/DanilAndreev/routing-manager)
 
+## 🌱 I’m currently learning ...
+Programming: I am improving my team leader skills on my current render manager project. Also, I am trying myself in project architect role.
+3D: Now I am learning __Houdini__ for VFX. Also, I am interested in my texturing skills improvement. 
+
+
 ## 👯 Collaboration
 I’m looking to collaborate on some 3D VFX projects. Also, I want to try scripting and plugins creation for 3D software for studios pipelines 😄.
 
