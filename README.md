@@ -10,6 +10,7 @@ I am creator of __Material Docs__ - powerful __React__ library for creating docu
 Official site: [Material Docs](http://material-docs.com)
 ### MuiTableFlexible
 <img alt="mui-table-flexible logo" height="110" src="https://github.com/DanilAndreev/mui-table-flexible/raw/master/logo256.png"/>  
+
 This __React__ library designed to create __flexible data tables__. Flexible means, that user can change width of each column using special handlers in the table header. Flexible tables help to display big amount of data. 
 > But I do not recommend to use tables like that for mobile interfaces 😄.  
 
