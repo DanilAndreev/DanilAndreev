@@ -3,6 +3,15 @@
 ## Hi there 👋
 Greetings, my name is Danil Andreev, I am 3d artist and programmer from Kiev, Ukraine.
 
+## 🔭 I’m currently working on
+### Overview
+Today I am working on __render manager__. Production name is ___Pathfinder___. Render manager - is a software for rendering automation and user control. 
+### My role
+I am team leader and project architect 😄.
+### Sources
+This is an open source project, you can track it here: [PathfinderSystems](https://github.com/Pathfinder-Systems).  
+
+
 ## My projects
 ### Material Docs
 ![Material Docs banner](https://github.com/DanilAndreev/material-docs/raw/master/images/MaterialDocsLogoOverview.png)  
@@ -22,12 +31,15 @@ __Routing Manager__ - is a __React__ library for __advanced routing__. It helps 
 Documentation: [routing-manager](https://github.com/DanilAndreev/routing-manager)
 
 ## 🌱 I’m currently learning ...
-Programming: I am improving my team leader skills on my current render manager project. Also, I am trying myself in project architect role.
-3D: Now I am learning __Houdini__ for VFX. Also, I am interested in my texturing skills improvement. 
+_Programming_: I am improving my __team leader__ skills on my current render manager project. Also, I am trying myself in __project architect__ role.  
+_3D_: Now I am learning __Houdini__ for VFX. Also, I am interested in my texturing skills improvement. 
 
 
 ## 👯 Collaboration
 I’m looking to collaborate on some 3D VFX projects. Also, I want to try scripting and plugins creation for 3D software for studios pipelines 😄.
+
+## 🤔 I’m looking for help with
+I am looking for help with film production projects 😄.
 
 ## 📫 How to reach me
 * danssg08@gmail.com 
