@@ -20,6 +20,14 @@ __Routing Manager__ - is a __React__ library for __advanced routing__. It helps 
 > This library uses __react-router-dom__.
 
 Documentation: [routing-manager](https://github.com/DanilAndreev/routing-manager)
+
+## 👯 Collaboration
+I’m looking to collaborate on some 3D VFX projects. Also, I want to try scripting and plugins creation for 3D software for studios pipelines 😄.
+
+## 📫 How to reach me
+* danssg08@gmail.com 
+* [GitHub](https://github.com/DanilAndreev)
+* [ArtStation](https://www.artstation.com/danilandreev)
 <!--
 **DanilAndreev/DanilAndreev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
