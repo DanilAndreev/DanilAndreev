@@ -15,7 +15,11 @@ This __React__ library designed to create __flexible data tables__. Flexible mea
 > But I do not recommend to use tables like that for mobile interfaces 😄.  
 
 Repository: [mui-table-flexible](https://github.com/DanilAndreev/mui-table-flexible)
+### Routing Manager
+routing-manager - is a __React__ library for __advanced routing__. It helps to simply manipulate with complex routes, do redirects, get route params, etc.  
+> This library uses __react-router-dom__.
 
+Documentation: [routing-manager](https://github.com/DanilAndreev/routing-manager)
 <!--
 **DanilAndreev/DanilAndreev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
