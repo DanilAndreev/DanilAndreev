@@ -4,15 +4,14 @@
 Greetings, my name is Danil Andreev, I am 3d artist and programmer from Kiev, Ukraine.
 
 ## 🔭 I’m currently working on
-### Atlas Render Farm manager
-
 <div align="center">
   <a href="https://github.com/AtlasRender">
     <img alt="Atlas logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasRenderLogo.svg" height="150" />
   </a>
 </div>
 <div align="center">
-  <h4> Subsystems of Atlas Render Farm manager:
+  <h3>Atlas Render Farm manager</h3>
+  <h5> Subsystems of Atlas Render Farm manager: </h5>
 </div>
 <div align="center">
   <a href="https://github.com/AtlasRender/atlas-monitor">
@@ -37,7 +36,13 @@ This is an open source project, you can track it here: [PathfinderSystems](https
 
 ## My projects
 ### Material Docs
-![Material Docs banner](https://github.com/DanilAndreev/material-docs/raw/master/images/MaterialDocsLogoOverview.png)  
+
+<div>
+  <div aling="center">
+    <img alt="Material Docs logo" src="https://github.com/DanilAndreev/material-docs/raw/master/images/MaterialDocsLogoOverview.png" height="100" />
+  </div>
+</div>
+
 I am creator of __Material Docs__ - powerful __React__ library for creating documentation in _material design_ style.  
 Official site: [Material Docs](http://material-docs.com)
 ### MuiTableFlexible
