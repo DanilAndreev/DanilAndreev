@@ -37,10 +37,8 @@ This is an open source project, you can track it here: [PathfinderSystems](https
 ## My projects
 ### Material Docs
 
-<div>
-  <div aling="center">
-    <img alt="Material Docs logo" src="https://github.com/DanilAndreev/material-docs/raw/master/images/MaterialDocsLogoOverview.png" height="100" />
-  </div>
+<div aling="center">
+  <img alt="Material Docs logo" src="https://github.com/DanilAndreev/material-docs/raw/master/images/MaterialDocsLogoOverview.png" height="100" />
 </div>
 
 I am creator of __Material Docs__ - powerful __React__ library for creating documentation in _material design_ style.  
