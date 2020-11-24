@@ -27,7 +27,18 @@ Greetings, my name is Danil Andreev, I am 3d artist and programmer from Kiev, Uk
 
 
 ### Overview
-Today I am working on __render manager__. Production name is ___Pathfinder___. Render manager - is a software for rendering automation and user control. 
+Today I am working on __Atlas Render Farm manager__. Render manager - is a software for rendering automation and user control.  
+
+### What is render manager
+Imagine that you have 20 computers on which parallel computations must be performed. Now imagine that you have to count 20 different problems in a row on these machines. Each of the tasks on 20 nodes, for example, takes 20 hours to process. It would be nice to automate the distribution of subtasks among nodes and automate the task queue. In addition, I would like to receive statistics on the performance of work. So, these are the problems that the __Atlas__ render manager solves.
+
+### What problems solves Atlas Render Farm manager
+* Jobs __queue automation__.
+* Jobs __distrubution__ between render nodes.
+* Collecting __statistics__.
+* User __alerting__.
+* __Access management__.
+
 ### My role
 I am team leader and project architect 😄.
 ### Sources
