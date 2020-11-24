@@ -4,6 +4,23 @@
 Greetings, my name is Danil Andreev, I am 3d artist and programmer from Kiev, Ukraine.
 
 ## 🔭 I’m currently working on
+### Atlas Render Farm manager
+
+<a>
+  <div align="center">
+    <img alt="Atlas logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasRenderLogo.svg" height="150" />
+  </div>
+  <div align="center">
+    <h4> Subsystems of Atlas Render Farm manager:
+  </div>
+  <div align="center">
+    <img alt="Atlas Monitor logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasMonitorLogo.svg" height="70"/>
+    <img alt="Atlas Core logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasCoreLogo.svg" height="70"/>
+    <img alt="Atlas Slave logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasSlaveLogo.svg" height="70"/>
+  </div>
+</a>
+
+
 ### Overview
 Today I am working on __render manager__. Production name is ___Pathfinder___. Render manager - is a software for rendering automation and user control. 
 ### My role
