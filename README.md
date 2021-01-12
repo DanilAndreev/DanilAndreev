@@ -42,7 +42,7 @@ Imagine that you have 20 computers on which parallel computations must be perfor
 ### My role
 I am team leader and project architect 😄.
 ### Sources
-This is an open source project, you can track it here: [PathfinderSystems](https://github.com/Pathfinder-Systems).  
+This is an open source project, you can track it here: [Atlas](https://github.com/AtlasRender).  
 
 
 ## My projects
