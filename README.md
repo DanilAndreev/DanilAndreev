@@ -3,6 +3,10 @@
 ## Hi there 👋
 Greetings, my name is Danil Andreev, I am 3d artist and programmer from Kiev, Ukraine.
 
+## My gists
+* [Rainbow tables (hash-chains)](https://gist.github.com/DanilAndreev/77036b5f7a7dc656c54aacb31140c22c)
+* [Reverse Polish Notation (RPN)](https://gist.github.com/DanilAndreev/ca4dd01460dabd1992e39dcc2c7732b4)
+
 ## 🔭 I’m currently working on
 <div align="center">
   <a href="https://github.com/AtlasRender">
