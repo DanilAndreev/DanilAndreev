@@ -1,5 +1,5 @@
 # Danil Andreev
-### Full stack web programmer. 3D artist generalist.
+### 3D Graphics Engieneer
 ## Hi there 👋
 Greetings, my name is Danil Andreev, I am 3d artist and programmer from Kiev, Ukraine.
 
@@ -9,49 +9,28 @@ Greetings, my name is Danil Andreev, I am 3d artist and programmer from Kiev, Uk
 
 ## 🔭 I’m currently working on
 <div align="center">
-  <a href="https://github.com/AtlasRender">
-    <img alt="Atlas logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasRenderLogo.svg" height="150" />
+  <a href="https://assetstore.unity.com/packages/tools/physics/zibra-liquids-200718#description">
+    <img alt="Zibra Liquids logo" src="https://assetstorev1-prd-cdn.unity3d.com/key-image/41085e31-1677-432b-8881-589575adb0ab.webp" height="150" />
   </a>
 </div>
-<div align="center">
-  <h3>Atlas Render Farm manager</h3>
-  <h5> Subsystems of Atlas Render Farm manager: </h5>
-</div>
-<div align="center">
-  <a href="https://github.com/AtlasRender/atlas-monitor">
-    <img alt="Atlas Monitor logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasMonitorLogo.svg" height="70"/>
-  </a>
-  <a href="https://github.com/AtlasRender/atlas-core">
-  <img alt="Atlas Core logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasCoreLogo.svg" height="70"/>
-  </a>
-  <a href="https://github.com/AtlasRender/atlas-slave">
-  <img alt="Atlas Slave logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasSlaveLogo.svg" height="70"/>
-  </a>
-</div>
-
-
-### Overview
-Today I am working on __Atlas Render Farm manager__. Render manager - is a software for rendering automation and user control.  
-
-### What is render manager
-Imagine that you have 20 computers on which parallel computations must be performed. Now imagine that you have to count 20 different problems in a row on these machines. Each of the tasks on 20 nodes, for example, takes 20 hours to process. It would be nice to automate the distribution of subtasks among nodes and automate the task queue. In addition, I would like to receive statistics on the performance of work. So, these are the problems that the __Atlas__ render manager solves.
-
-### What problems does the Atlas Render Farm manager solves
-* Jobs __queue automation__.
-* Jobs __distrubution__ between render nodes.
-* Collecting __statistics__.
-* User __alerting__.
-* __Access management__.
 
 ### My role
-I am team leader and project architect 😄.
-### Sources
-This is an open source project, you can track it here: [Atlas](https://github.com/AtlasRender).  
-
+I am 3D Research Engieneer at ZibraAI. I'm working on graphics 
 
 ## My projects
-### Material Docs
+### Atlas Render Manager
 
+<div aling="center">
+  <a href="https://github.com/AtlasRender">
+  <img alt="Atlas Render Manager logo" src="https://github.com/AtlasRender/atlas-media/blob/main/logos/AtlasRenderLogo.svg" height="100" />
+  </a>
+</div>
+
+#### What is render manager?
+Imagine that you have 20 computers on which parallel computations must be performed. Now imagine that you have to count 20 different problems in a row on these machines. Each of the tasks on 20 nodes, for example, takes 20 hours to process. It would be nice to automate the distribution of subtasks among nodes and automate the task queue. In addition, I would like to receive statistics on the performance of work. So, these are the problems that the __Atlas__ render manager solves.
+
+
+### Material Docs
 <div aling="center">
   <a href="https://material-docs.com/">
   <img alt="Material Docs logo" src="https://github.com/DanilAndreev/material-docs/raw/master/images/MaterialDocsLogoOverview.png" height="100" />
