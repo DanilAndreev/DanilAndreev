@@ -4,10 +4,19 @@
 Greetings, my name is Danil Andreev, I am 3D graphics programmer from Kyiv, Ukraine🇺🇦.
 
 
-## 🔭 I’m currently working on Zibra Effects
+## 🔭 I’m currently working on:
+### [Zibra Effects](https://effects.zibra.ai/zibra-effects)
+
 <div align="center">
   <a href="https://assetstore.unity.com/packages/tools/physics/zibra-liquids-200718#description">
-    <img alt="Zibra Liquids logo" src="https://github.com/DanilAndreev/DanilAndreev/assets/33941552/d47e627f-732a-4b7a-a097-85eda83bd74a" height="150" />
+    <img alt="Zibra Effects logo" src="https://github.com/DanilAndreev/DanilAndreev/assets/33941552/0b00068d-ca0d-46e4-8c9e-b747488fa4cd" width="100%" />
+  </a>
+</div>
+
+### [Zibra VDB Compression](https://zibra.ai/zibra-compression/)
+<div align="center">
+  <a href="https://assetstore.unity.com/packages/tools/physics/zibra-liquids-200718#description">
+    <img alt="Zibra Effects logo" src="https://github.com/DanilAndreev/DanilAndreev/assets/33941552/993e7c95-0fea-458e-8d5b-51edaa61eae1" width="100%" />
   </a>
 </div>
 
