@@ -21,7 +21,10 @@ Greetings, my name is Danil Andreev, I am 3D graphics programmer from Kyiv, Ukra
 </div>
 
 ### My role
-3D Research Engieneer
+3D Research Engieneer:
+- RHI development & support
+- 3D Rendering programming
+- Profiling & optimising 3D graphics pipeline
 
 ## 🌱 I’m currently learning ...
 Ray tracing pipelines
