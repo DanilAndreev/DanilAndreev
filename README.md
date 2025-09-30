@@ -1,7 +1,7 @@
 # Danil Andreev
 ### 3D Graphics Engieneer
 ## Hi there 👋
-Greetings, my name is Danil Andreev, I am 3D graphics programmer from Kyiv, Ukraine🇺🇦.
+Greetings, my name is Danil Andreev, I am 3D graphics programmer from Kyiv, Ukraine. (Now resident of Czech Republic)
 
 
 ## 🔭 I’m currently working on:
@@ -9,19 +9,15 @@ Greetings, my name is Danil Andreev, I am 3D graphics programmer from Kyiv, Ukra
 
 <div align="center">
   <a href="https://assetstore.unity.com/packages/tools/physics/zibra-liquids-200718#description">
-    <img alt="Zibra Effects logo" src="https://github.com/DanilAndreev/DanilAndreev/assets/33941552/0b00068d-ca0d-46e4-8c9e-b747488fa4cd" width="100%" />
+    <img alt="Zibra Effects logo" src="https://github.com/DanilAndreev/DanilAndreev/assets/33941552/0b00068d-ca0d-46e4-8c9e-b747488fa4cd" width="30%" />
   </a>
 </div>
 
-### [Zibra VDB Compression](https://zibra.ai/zibra-compression/)
-<div align="center">
-  <a href="https://assetstore.unity.com/packages/tools/physics/zibra-liquids-200718#description">
-    <img alt="Zibra Effects logo" src="https://github.com/DanilAndreev/DanilAndreev/assets/33941552/993e7c95-0fea-458e-8d5b-51edaa61eae1" width="100%" />
-  </a>
-</div>
+### <img alt="Zibra Effects logo" src="https://github.com/user-attachments/assets/c16bace7-6484-482a-b074-ed1fcf4f990a" /> [Zibra VDB Compression](https://zibra.ai/zibra-compression/)
 
 ### My role
-3D Research Engieneer:
+Senior 3D Rendering Engieneer:
+- Software architecture of Zibra infrastructure
 - RHI development & support
 - 3D Rendering programming
 - Profiling & optimising 3D graphics pipeline
@@ -34,6 +30,7 @@ Ray tracing pipelines
 * [Reverse Polish Notation (RPN)](https://gist.github.com/DanilAndreev/ca4dd01460dabd1992e39dcc2c7732b4)
 
 ## 📫 How to reach me
-* danssg08@gmail.com 
+* dan.andrieiev@gmail.com
 * [GitHub](https://github.com/DanilAndreev)
+* [LinkedIn](https://www.linkedin.com/in/danil-andreev-264b69183/)
 * [ArtStation](https://www.artstation.com/danilandreev)
